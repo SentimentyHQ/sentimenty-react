@@ -30,6 +30,11 @@
     "react": ">=16.8.0",
     "react-dom": ">=16.8.0"
   },
+  "files": [
+    "dist",
+    "src",
+    "README.md"
+  ],
   "devDependencies": {
     "@rollup/plugin-commonjs": "^26.0.1",
     "@rollup/plugin-node-resolve": "^15.2.3",
